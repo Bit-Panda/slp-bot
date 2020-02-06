@@ -4,12 +4,12 @@
     "network_testnet": "https://trest.bitcoin.com/v2/",
     "ws_mainnet": "wss://ws.bitcoin.com",
     "ws_testnet": "wss://tws.bitcoin.com",
-    "token_address": "e3cb905d9993f48c4763ce26810987214bf5413bdc963161e01b7d64b9161f1c",
+    "token_address": "0f9ae9a45fdc9cafa927a885928d565aed50a5e2dd33cccc796100f7555c58a4",
     "language": "en",
-    "telegram_token": "",
+    "telegram_token": "1046267622:AAEjZbF2peTGPc62Ou19MHd6DS31C6Xmbxk",
     "word_list_language": "english",
-    "default_tip_amount": 100,
-    "owner_telegram_id": 0,
+    "default_tip_amount": 1,
+    "owner_telegram_id": 1049984700,
     "email": {
         "to_address": "slp-bot@example.com",
         "from_address": "slp-bot@example.com",
@@ -21,12 +21,12 @@
     },
     "tip_emojis": [
         {
-            "icon": "🍺",
-            "value": 10000
+            "icon": "😀",
+            "value": 10
         },
         {
-            "icon": "🌱",
-            "value": 1000
+            "icon": "🤩",
+            "value": 20
         }
     ],
     "tip_keyword": "tip\\s+([0-9]+[\\.0-9]*)"
